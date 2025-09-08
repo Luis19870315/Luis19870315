@@ -8,5 +8,5 @@ Actualmente curso el programa Data Scientis, Escuela TripleTen de Data Science, 
 
 ### Donde puedes encontrarme:
 - [Linkedin] (www.linkedin.com/in/luis-santiago-aguilar-ulloa-46806326a)
-- [Facebook] (https://www.facebook.com/settings/?tab=profile_and_tagging)
+- [Facebook] (https://www.facebook.com/luissantiago.aguilar.ulloa/)
 
