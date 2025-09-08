@@ -7,6 +7,6 @@
 Actualmente curso el programa Data Scientis, Escuela TripleTen de Data Science, el programa de Data Scientis de TripleTen es un curso de 8 meses en la ciencia de los datos con énfasis en el análisis. Abarca Python, SQL, machine learning, métodos y aplicaciones estándar de análisis de datos, e implica la finalización de 18 proyectos basados en datos del mundo real.
 
 ### Donde puedes encontrarme:
-- [![Linkedin](https://img.shields.io/badge/Linkedin-linkedin.com/in/luis-santiago-aguilar-ulloa-46806326a/-red.svg)]
+- [![Linkedin](https://img.shields.io/badge/<Linkedin>-<Acceder>-<red>.svg)]([https://shields.io/](https://www.linkedin.com/in/luis-santiago-aguilar-ulloa-46806326a/))
 - [Facebook] (https://www.facebook.com/luissantiago.aguilar.ulloa/)
 
