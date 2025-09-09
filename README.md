@@ -9,4 +9,4 @@ Actualmente curso el programa Data Scientis, Escuela TripleTen de Data Science, 
 ### Donde puedes encontrarme:
 [![Generic badge](https://img.shields.io/badge/<Entra-->-<Linkedin>-<blue>.svg)](https://www.linkedin.com/in/luis-santiago-aguilar-ulloa-46806326a/)
 
-[![Generic badge](https://img.shields.io/badge/<Entra-->-<Linkedin>-<Colorgreen>.svg)](https://www.facebook.com/luissantiago.aguilar.ulloa)
+[![Generic badge](https://img.shields.io/badge/<Entra-->-<Facebook>-<Colorgreen>.svg)](https://www.facebook.com/luissantiago.aguilar.ulloa)
