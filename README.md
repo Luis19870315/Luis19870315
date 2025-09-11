@@ -89,8 +89,8 @@
   <a  href="https://t.me/example" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+  <a href="aguilarulloaluisgmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0078D4.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="example"/>
   </a>
 </p>
 
@@ -107,7 +107,3 @@
 🔭 Soy un profesional en atención al cliente con más de cinco años de experiencia en la industria, comprometido con la satisfacción del cliente; mi enfoque se centra en proporcionar soluciones legales personalizadas, adaptadas a las necesidades y circunstancias particulares de cada caso; cuento con habilidades sólidas en la comunicación efectiva y la resolución de conflictos.
 Actualmente curso el programa Data Scientis, Escuela TripleTen de Data Science, el programa de Data Scientis de TripleTen es un curso de 8 meses en la ciencia de los datos con énfasis en el análisis. Abarca Python, SQL, machine learning, métodos y aplicaciones estándar de análisis de datos, e implica la finalización de 18 proyectos basados en datos del mundo real.
 
-### Donde puedes encontrarme:
-[![Generic badge](https://img.shields.io/badge/<Entra>-<Linkedin>-<blue>.svg)](https://www.linkedin.com/in/luis-santiago-aguilar-ulloa-46806326a/)
-
-[![Generic badge](https://img.shields.io/badge/<Entra>-<Facebook>-<blue>.svg)](https://www.facebook.com/luissantiago.aguilar.ulloa)
