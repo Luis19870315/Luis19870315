@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact --> **El codigo es una pasion no una profesion**
 
-- 📫Some of my professional experience  --> **Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel personal y profesional, progreso que estoy seguro, puede suceder de ocupar el cargo en donde tenga oportunidad**
+- 📫something more about me --> **Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel personal y profesional, progreso que estoy seguro, puede suceder de ocupar el cargo en donde tenga oportunidad**
 
 <!--
 **Luis19870315/Luis19870315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
