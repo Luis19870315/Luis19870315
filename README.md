@@ -26,7 +26,7 @@ Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel 
 <h3 align="center">Lenguajes de Programacion que estoy aprendiendo</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=red"
       alt="c"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -37,7 +37,6 @@ Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel 
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
     </a>
-
   <a href="https://dart.dev/">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
