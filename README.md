@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://imgur.com/a/mrZcNRI">
+<img src="https://i.imgur.com/Wskj8cn.jpeg">
 
 <!--
 **Luis19870315/Luis19870315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
