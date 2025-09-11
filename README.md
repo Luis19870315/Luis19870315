@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Luis Santiago </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienbenido+a+mi+perfil;Soy+aspirante+a+cientifico+de+Datos..&hearts;++;Computer+Science+Student;Tengo+experiencia+en+atencion+a+clientes;I+have+experience+in+customer+service;Soy+ademas+abogado+profesional;I+am+also+a+professional+lawyer;Me+encanta+aprender+cosas+nuevas;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil;Soy+aspirante+a+cientifico+de+Datos..&hearts;++;Computer+Science+Student;Tengo+experiencia+en+atencion+a+clientes;I+have+experience+in+customer+service;Soy+ademas+abogado+profesional;I+am+also+a+professional+lawyer;Me+encanta+aprender+cosas+nuevas;Love+to+learn+new+stuffs;me+gustaria+conocerte..<3"></a>
 </p>
 
 <br>
@@ -82,18 +82,6 @@
     </a>
   </div>
 </div>
-
-<h3 align="center">Reach me</h3>
-
-<p align="center">
-  <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0078D4.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="example"/>
-  </a>
-</p>
-
 ----
 
 <p align="center">
@@ -101,9 +89,4 @@
     alt="example" />
 </p>
 
-
-
-
-🔭 Soy un profesional en atención al cliente con más de cinco años de experiencia en la industria, comprometido con la satisfacción del cliente; mi enfoque se centra en proporcionar soluciones legales personalizadas, adaptadas a las necesidades y circunstancias particulares de cada caso; cuento con habilidades sólidas en la comunicación efectiva y la resolución de conflictos.
-Actualmente curso el programa Data Scientis, Escuela TripleTen de Data Science, el programa de Data Scientis de TripleTen es un curso de 8 meses en la ciencia de los datos con énfasis en el análisis. Abarca Python, SQL, machine learning, métodos y aplicaciones estándar de análisis de datos, e implica la finalización de 18 proyectos basados en datos del mundo real.
 
