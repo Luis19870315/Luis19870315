@@ -4,6 +4,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil;Soy+aspirante+a+cientifico+de+Datos..&hearts;++;Computer+Science+Student;Tengo+experiencia+en+atencion+a+clientes;I+have+experience+in+customer+service;Soy+ademas+abogado+profesional;I+am+also+a+professional+lawyer;Me+encanta+aprender+cosas+nuevas;Love+to+learn+new+stuffs;me+gustaria+conocerte;I+would+like+to+meet+you"></a>
 </p>
 
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Luis%20Santiago%20Aguilar%20Ulloa%20(Luis19870315)&fontSize=30&type=waving&fontColor=red&&animation=fadeIn"
+  alt="header"/>
+</div>
+
+<!-- STACK -->
+<div align="center" width="100">
+  <h1>Stack</h1>
+
+
 <br>
 <h3> Here's some fun facts about me: </h3>
 - 🌱 I’m currently learning --> **Programacion y convertirme en un Cientifica de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
@@ -21,7 +32,7 @@ Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel 
 <!--
 **Luis19870315/Luis19870315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
+## 🛠️ My Skills
 
 <h3 align="center">Lenguajes de Programacion que estoy aprendiendo</h3>
 <p align="center">
