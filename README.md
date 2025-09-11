@@ -75,7 +75,10 @@
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a href="https://www.instagram.com/luissantiago.aguilar.ulloa/" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Instagram-1DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+    </a>
+     <a href="https://www.facebook.com/luissantiago.aguilar.ulloa/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1DA1F2.svg?style=for-the-badge&logo=faceebook&logoColor=white" alt="example"/>
     </a>
   </div>
 </div>
