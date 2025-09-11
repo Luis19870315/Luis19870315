@@ -11,13 +11,14 @@
 
 <br>
 <h3> Here's some fun facts about me: </h3>
- - 🌱 I’m currently learning --> **Programacion y convertirme en un Cientifica de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👨‍💻 All of my projects are available in --> (https://github.com/Luis19870315?tab=repositories)
+🌱 I’m currently learning --> **Programacion y convertirme en un Cientifica de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- ⚡ Fun fact --> **El codigo es una pasion no una profesion**
+👨‍💻 All of my projects are available in --> (https://github.com/Luis19870315?tab=repositories)
 
-- 📫something more about me --> **Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel personal y profesional, progreso que estoy seguro, puede suceder de ocupar el cargo en donde tenga oportunidad**
+⚡ Fun fact --> **El codigo es una pasion no una profesion**
+
+📫something more about me --> **Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel personal y profesional, progreso que estoy seguro, puede suceder de ocupar el cargo en donde tenga oportunidad**
 
 <!--
 **Luis19870315/Luis19870315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
