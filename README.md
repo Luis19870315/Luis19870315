@@ -5,12 +5,18 @@
 </p>
 
 <br>
-
-- 🌱 I’m currently learning ---> **Programacion y convertirme en un Cientifica de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<h3> Here's some fun facts about me: </h3>
+- 🌱 I’m currently learning --> **Programacion y convertirme en un Cientifica de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👨‍💻 All of my projects are available in.--> (https://github.com/Luis19870315?tab=repositories)
 
 - ⚡ Fun fact --> **Coding is a passion and not profession.**
+
+- 📫Some of my professional experience  --> **Soy un profesional en atención al cliente con más de cinco años de experiencia en la industria, comprometido con la satisfacción del cliente; mi enfoque se centra en proporcionar soluciones legales personalizadas, adaptadas a las necesidades y circunstancias particulares de cada caso; cuento con habilidades sólidas en la comunicación efectiva y la resolución de conflictos.
+Cuento con experiencia en análisis de información, manejo de bases de datos, además en atención al cliente con más de cinco años de experiencia en la industria, comprometido con la satisfacción del cliente.
+En mi trayectoria profesional me he desempeñado en áreas de jurídicas, administrativas y ventas en sectores de comercio y sectores bursátiles.
+Soy una persona con iniciativa de investigación, adaptación, mi enfoque se centra en proporcionar soluciones legales personalizadas, adaptadas a las necesidades y circunstancias particulares de cada caso, además cuento con habilidades sólidas en la comunicación efectiva y la resolución de conflictos,  me gusta estar en constante aprendizaje, es por esto que realizo recientemente un bootcamp de tecnología que me permitió adquirir suficientes conocimientos en diversos lenguajes de programación. Tengo mayor experiencia en SQL, Python y Github.
+Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel personal y profesional, progreso que estoy seguro, puede suceder de ocupar el cargo en donde tenga oportunidad**
 
 <!--
 **Luis19870315/Luis19870315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
