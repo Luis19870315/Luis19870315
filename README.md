@@ -1,5 +1,5 @@
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hola%20yo%20soy%20Luis%20Santiago%20Aguilar%20Ulloa%20(Luis19870315)&fontSize=30&type=waving&fontColor=red&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hola%20yo%20soy%20Luis%20Santiago%20Aguilar%20Ulloa%20(Luis19870315)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 
 <p align="center">
