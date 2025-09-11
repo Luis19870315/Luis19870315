@@ -89,7 +89,7 @@
   <a  href="https://t.me/example" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
-  <a href="aguilarulloaluisgmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0078D4.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="example"/>
   </a>
 </p>
