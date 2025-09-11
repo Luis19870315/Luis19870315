@@ -37,8 +37,6 @@ Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel 
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
     </a>
-  <p align="left"> 
-  
 
   <a href="https://dart.dev/">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
