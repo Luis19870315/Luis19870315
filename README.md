@@ -1,11 +1,11 @@
-<h1 align="center"><b>Hi , Hola yo soy Luis Santiago </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola yo soy Luis Santiago </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil;Soy+aspirante+a+cientifico+de+Datos..&hearts;++;Computer+Science+Student;Tengo+experiencia+en+atencion+a+clientes;I+have+experience+in+customer+service;Soy+ademas+abogado+profesional;I+am+also+a+professional+lawyer;Me+encanta+aprender+cosas+nuevas;Love+to+learn+new+stuffs;me+gustaria+conocerte;I+would+like+to+meet+you"></a>
 </p>
 
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Luis%40Santiago%40Aguilar%40Ulloa%40(Luis19870315)&fontSize=30&type=waving&fontColor=red&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=(Luis19870315)&fontSize=30&type=waving&fontColor=red&&animation=fadeIn"
   alt="header"/>
 </div>
 
