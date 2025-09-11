@@ -17,11 +17,7 @@
 
 - ⚡ Fun fact --> **El codigo es una pasion no una profesion**
 
-- 📫Some of my professional experience  --> **Soy un profesional en atención al cliente con más de cinco años de experiencia en la industria, comprometido con la satisfacción del cliente; mi enfoque se centra en proporcionar soluciones legales personalizadas, adaptadas a las necesidades y circunstancias particulares de cada caso; cuento con habilidades sólidas en la comunicación efectiva y la resolución de conflictos.
-Cuento con experiencia en análisis de información, manejo de bases de datos, además en atención al cliente con más de cinco años de experiencia en la industria, comprometido con la satisfacción del cliente.
-En mi trayectoria profesional me he desempeñado en áreas de jurídicas, administrativas y ventas en sectores de comercio y sectores bursátiles.
-Soy una persona con iniciativa de investigación, adaptación, mi enfoque se centra en proporcionar soluciones legales personalizadas, adaptadas a las necesidades y circunstancias particulares de cada caso, además cuento con habilidades sólidas en la comunicación efectiva y la resolución de conflictos,  me gusta estar en constante aprendizaje, es por esto que realizo recientemente un bootcamp de tecnología que me permitió adquirir suficientes conocimientos en diversos lenguajes de programación. Tengo mayor experiencia en SQL, Python y Github.
-Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel personal y profesional, progreso que estoy seguro, puede suceder de ocupar el cargo en donde tenga oportunidad**
+- 📫Some of my professional experience  --> **Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel personal y profesional, progreso que estoy seguro, puede suceder de ocupar el cargo en donde tenga oportunidad**
 
 <!--
 **Luis19870315/Luis19870315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -98,7 +94,6 @@ Mi mayor motivación es obtener un cargo y asi poder seguir progresando a nivel 
 &emsp;
   </div>
 </div>
-----
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
