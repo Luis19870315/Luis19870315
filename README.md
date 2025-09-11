@@ -2,7 +2,7 @@
 <!--  -->A
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+aspirante+a+cientifico+de+Datos..&hearts;++;Computer+Science+Student;tengo+experiencia+en+atencion+a+cliente;I+have+experience+in+customer+service;soy+ademas+abogado+profesional;I+am+also+a+professional+lawyer;meencanta+aprender+cosas+nuevas;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+aspirante+a+cientifico+de+Datos..&hearts;++;Computer+Science+Student;Tengo+experiencia+en+atencion+a+clientes..&men;++;I+have+experience+in+customer+service;soy+ademas+abogado+profesional;I+am+also+a+professional+lawyer;meencanta+aprender+cosas+nuevas;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
