@@ -2,11 +2,12 @@
 <!--  -->A
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+aspirante+a+cientifico+de+Datos..&hearts;++;Computer+Science+Student;Tengo+experiencia+en+atencion+a+clientes;I+have+experience+in+customer+service;Soy+ademas+abogado+profesional..&book;++;I+am+also+a+professional+lawyer;Me+encanta+aprender+cosas+nuevas;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+aspirante+a+cientifico+de+Datos..&hearts;++;Computer+Science+Student;Tengo+experiencia+en+atencion+a+clientes;I+have+experience+in+customer+service;Soy+ademas+abogado+profesional;I+am+also+a+professional+lawyer;Me+encanta+aprender+cosas+nuevas;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
 <br>
+
+<img src="https://i.imgur.com/Wskj8cn.jpeg">
 
 <!--
 **Luis19870315/Luis19870315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
