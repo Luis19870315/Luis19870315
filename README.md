@@ -6,14 +6,16 @@
 
 <br>
 
-- 🌱 I’m currently learning **Programacion y convertirme en un Cientifica de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning ---> **Programacion y convertirme en un Cientifica de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👨‍💻 All of my projects are available.(https://github.com/Luis19870315?tab=repositories)
+- 👨‍💻 All of my projects are available in.--> (https://github.com/Luis19870315?tab=repositories)
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- ⚡ Fun fact --> **Coding is a passion and not profession.**
 
 <!--
 **Luis19870315/Luis19870315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+
 
 <h3 align="center">Lenguajes de Programacion que estoy aprendiendo</h3>
 <p align="center">
