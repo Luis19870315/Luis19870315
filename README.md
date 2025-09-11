@@ -72,10 +72,10 @@
   <div>
   <div>
     <a  href="https://www.linkedin.com/in/luis-santiago-aguilar-ulloa-46806326a/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=red" alt="example"/>
     </a>
     <a href="https://www.instagram.com/luissantiago.aguilar.ulloa/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-1DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Instagram-1DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=blue" alt="example"/>
     </a>
      <a href="https://www.facebook.com/luissantiago.aguilar.ulloa/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1DA1F2.svg?style=for-the-badge&logo=faceebook&logoColor=white" alt="example"/>
@@ -93,15 +93,6 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
-
-----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
 
 ----
 
