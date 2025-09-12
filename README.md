@@ -12,7 +12,7 @@
 <br>
 <h3> Here's some fun facts about me: </h3>
 
-🌱 I’m currently learning --> **Programacion y convertirme en un Cientifica de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+🌱 I’m currently learning --> **Programacion y para asi convertirme en un Cientifico de Datos** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 👨‍💻 All of my projects are available in --> (https://github.com/Luis19870315?tab=repositories)
 
