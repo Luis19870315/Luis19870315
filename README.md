@@ -16,7 +16,7 @@
 
 👨‍💻 All of my projects are available in --> (https://github.com/Luis19870315?tab=repositories)
 
-⚡ Fun fact --> **El codigo es una pasion no una profesion**
+⚡ Fun fact --> **Para mí, el código es una pasión que impulsa mi aprendizaje y creatividad, más que una simple ocupación**
 
 📫something more about me --> **Mi principal motivación es integrarme a una posición donde pueda aplicar mis habilidades analíticas y continuar desarrollándome tanto a nivel personal como profesional. Estoy convencido de que, al asumir un rol en el que pueda generar valor mediante el análisis de datos y la toma de decisiones basada en evidencia, podré contribuir al crecimiento de la organización mientras impulso mi propio progreso profesional**
 
